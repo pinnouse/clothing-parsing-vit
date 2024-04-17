@@ -1,0 +1,7 @@
+**.DS_STORE
+
+images/
+labels
+results-seg/
+**.h5
+**.txt
