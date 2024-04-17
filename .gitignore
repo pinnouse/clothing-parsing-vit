@@ -3,5 +3,6 @@
 images/
 labels
 results-seg/
+checkpoints/
 **.h5
 **.txt
